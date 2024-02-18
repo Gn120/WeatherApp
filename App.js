@@ -13,7 +13,7 @@ import { Fontisto } from "@expo/vector-icons";
 
 const { width: SCREEN_WIDTH } = Dimensions.get("window");
 
-const API_KEY = "847ebedd4348f90da610fab0f11a453e";
+const API_KEY = "날씨 Token";
 
 const icons = {
   Clouds: "cloudy",
